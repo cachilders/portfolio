@@ -50,16 +50,16 @@ $global-width: rem-calc(1200);
 $global-lineheight: 1.5;
 $foundation-palette: (
   primary: #2199e8,
-  secondary: #777,
-  success: #3adb76,
-  warning: #ffae00,
-  alert: #ec5840,
+  secondary: #C4C0BB,
+  success: #83A57B,
+  warning: #FBC43E,
+  alert: #F66A60,
 );
-$light-gray: #e6e6e6;
-$medium-gray: #cacaca;
-$dark-gray: #8a8a8a;
-$black: #0a0a0a;
-$white: #fefefe;
+$light-gray: #FFFDE3;
+$medium-gray: #7C8B99;
+$dark-gray: #EED9C1;
+$black: #39393B;
+$white: #FEF6E6;
 $body-background: $white;
 $body-font-color: $black;
 $body-font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
@@ -260,10 +260,10 @@ $buttongroup-expand-max: 6;
 // 13. Callout
 // -----------
 
-$callout-background: $white;
-$callout-background-fade: 85%;
-$callout-border: 1px solid rgba($black, 0.25);
-$callout-margin: 0 0 1rem 0;
+$callout-background: $warning-color;
+$callout-background-fade: 45%;
+$callout-border: 0px solid rgba($black, 0.25);
+$callout-margin: 0 0 0 0;
 $callout-padding: 1rem;
 $callout-font-color: $body-font-color;
 $callout-font-color-alt: $body-background;
