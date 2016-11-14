@@ -3401,6 +3401,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/favicon.ico",
+		"oF": 0
+		},
 	"\/gulpfile-min.js": {
 		"ft": 64,
 		"mi": 1,
