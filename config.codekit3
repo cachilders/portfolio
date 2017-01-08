@@ -3427,6 +3427,14 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/images\/backpat-demo.png": {
+		"ft": 32768,
+		"iS": 330866,
+		"oA": 0,
+		"oAP": "\/images\/backpat-demo.png",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/images\/backpat.png": {
 		"ft": 32768,
 		"iS": 136478,
@@ -3434,6 +3442,14 @@
 		"oAP": "\/images\/backpat.png",
 		"oF": 0,
 		"opt": 1
+		},
+	"\/images\/bitshifter.png": {
+		"ft": 32768,
+		"iS": 97500,
+		"oA": 0,
+		"oAP": "\/images\/bitshifter.png",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/images\/foxcove.png": {
 		"ft": 32768,
@@ -3510,6 +3526,12 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"\/README.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/README.html",
+		"oF": 0
 		},
 	"\/README.md": {
 		"cS": 0,
@@ -3617,7 +3639,7 @@
 	"displayValue": "portfolio",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-ron",
-	"lastBuiltDate": 500850515
+	"lastBuiltDate": 505553795
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
